@@ -1,0 +1,11 @@
+name: FlightTeleport
+version: 0.0.1
+main: me.kaevupoiss.flightteleport.FlightTeleport
+author: Rasmus Talioja
+api-version: 1.16
+commands:
+  FTeleport:
+    description: Used to teleport a player graciously
+    usage: /fteleport
+    permission: flightteleport.tp
+
