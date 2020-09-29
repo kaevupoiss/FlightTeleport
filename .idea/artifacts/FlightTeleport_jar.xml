@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="FlightTeleport:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/FlightTeleport_jar</output-path>
-    <root id="archive" name="FlightTeleport.jar">
-      <element id="module-output" name="FlightTeleport" />
-      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.16.3-R0.1-20200919.092521-8.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
